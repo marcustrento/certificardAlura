@@ -6,3 +6,5 @@ Foi utilizado HTML, CSS e JavaScript para desenvolver diversos programas que inc
 - Mentalista (jogo para adivinhar o número sorteado);
 - AluraFlix (adicionando o endereço de imagem - .jpg ou .png - monta-se uma lista dos filmes favoritos do usuário);
 - Super Trunfo (jogo de cartas o qual competem baseado em atributos).
+
+https://marcustrento.github.io/certificardAlura/
